@@ -4,6 +4,6 @@
 Person1=Kish
 Person2=Chintu
 
-echo "$PERSON1:: how are you $Person2"
-echo "$Person2:: hello $PERSON1 I'm doing good and how about you"
-echo "$PERSON1:: I'm doing good too $Person2 ,Thanks for asking me"
+echo "$Person1:: how are you $Person2"
+echo "$Person2:: hello $Person1 I'm doing good and how about you"
+echo "$Person1:: I'm doing good too $Person2 ,Thanks for asking me"
